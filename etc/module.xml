@@ -3,7 +3,7 @@
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Terence_ShippingWebhook" setup_version="1.0.0">
         <sequence>
-            <module name="Magento_Shipping"/>
+            <module name="Magento_shipping"/>
             <module name="Magento_Sales"/>
         </sequence>
     </module>
